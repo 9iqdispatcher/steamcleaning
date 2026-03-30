@@ -1,0 +1,3 @@
+= steamcleaner
+
+individual scripts to delete unwanted uninstaller registry entries that spams your control panel with things steam already handles and to delete leftover files from uninstalled games. The latter may also delete your saves in some cases, make sure they're backed up (or that you don't care) before running the script.

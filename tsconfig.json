@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "types": ["bun"],
+    "lib": ["ESNext"],
+    "target": "ESNext",
+    "module": "nodenext",
+    "moduleResolution": "NodeNext",
+    "noEmit": true,
+    "allowJs": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUncheckedIndexedAccess": true,
+    "noImplicitOverride": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "resolveJsonModule": true,
+    "allowImportingTsExtensions": true
+  }
+}

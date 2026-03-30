@@ -1,0 +1,4 @@
+* text=auto eol=lf
+data/i18n/** -diff
+data/i18n/en-US.json diff
+bun.lock -diff
