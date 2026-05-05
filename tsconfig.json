@@ -16,6 +16,8 @@
     "noUnusedParameters": true,
     "noPropertyAccessFromIndexSignature": true,
     "resolveJsonModule": true,
-    "allowImportingTsExtensions": true
+    "allowImportingTsExtensions": true,
+    "erasableSyntaxOnly": true,
+    "verbatimModuleSyntax": true
   }
 }
