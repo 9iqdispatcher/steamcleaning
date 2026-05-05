@@ -1,4 +1,4 @@
-#!/usr/bin/env bun
+#!/usr/bin/env node
 import { execSync } from "node:child_process";
 import { readdir, readFile, stat, rm } from "node:fs/promises";
 import { join, resolve } from "node:path";

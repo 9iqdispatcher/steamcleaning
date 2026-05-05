@@ -1,4 +1,4 @@
-#!/usr/bin/env bun
+#!/usr/bin/env node
 import { exec as execCallback, spawn } from "node:child_process";
 import os from "node:os";
 import { createInterface } from "node:readline/promises";
