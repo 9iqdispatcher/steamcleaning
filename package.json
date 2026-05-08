@@ -4,11 +4,11 @@
   "type": "module",
   "scripts": {
     "pretest": "pnpm typecheck && pnpm lint",
-    "typecheck": "pnpm tsgo --noEmit",
-    "lint": "pnpm oxlint .",
-    "lint:fix": "pnpm oxlint --fix",
-    "fmt": "pnpm oxfmt",
-    "fmt:check": "pnpm oxfmt --check"
+    "typecheck": "tsgo --noEmit",
+    "lint": "oxlint .",
+    "lint:fix": "oxlint --fix",
+    "fmt": "oxfmt",
+    "fmt:check": "oxfmt --check"
   },
   "devDependencies": {
     "@types/node": "25.6.0",
